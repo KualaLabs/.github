@@ -96,6 +96,18 @@ We welcome contributions from developers who share our passion for creating bett
 4. **User Experience**: Prioritize developer experience in all decisions
 5. **Innovation**: Propose new features and improvements
 
+## 👥 Team
+
+Meet the talented developers behind KoalaLabs and Docker-Fucker:
+
+- [**@batuhan-elibuyuk**](https://github.com/batuhan-elibuyuk) - Core Developer
+- [**@cuneytercel23**](https://github.com/cuneytercel23) - Core Developer  
+- [**@ogzhnaydn38**](https://github.com/ogzhnaydn38) - Core Developer
+- [**@OmerYesilkaya**](https://github.com/OmerYesilkaya) - Core Developer
+- [**@Ray997**](https://github.com/Ray997) - Core Developer
+
+Our team brings together diverse expertise in containerization, database management, message queuing, and modern web technologies to create tools that developers actually want to use.
+
 ## 📞 Contact & Support
 
 - **Website**: [Coming Soon]
