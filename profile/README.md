@@ -106,7 +106,6 @@ Our platform provides comprehensive support for enterprise-grade technologies:
 
 ### **Platform Architecture**
 - **Frontend**: React-based SPA with enterprise-grade UI/UX
--****
 - **Backend**: Microservices architecture with cloud-native design
 - **Database**: Distributed architecture with high availability
 - **Security**: OAuth 2.0, RBAC, encryption at rest and in transit
@@ -145,7 +144,6 @@ We welcome contributions from the developer community:
 
 Our world-class engineering team combines decades of experience in enterprise software development, cloud infrastructure, and developer tools:
 
-****
 
 <div align="center">
 
@@ -160,7 +158,7 @@ Our world-class engineering team combines decades of experience in enterprise so
 <sub><b>Batuhan Elibüyük</b></sub>
 </a>
 <br />
-<sub>Container Orchestration, DevOps</sub>
+<sub>Software Developer</sub>
 </td>
 <td align="center">
 <a href="https://github.com/cuneytercel23">
@@ -169,7 +167,7 @@ Our world-class engineering team combines decades of experience in enterprise so
 <sub><b>Cüneyt Erçel</b></sub>
 </a>
 <br />
-<sub>Backend Systems, Database Architecture</sub>
+<sub>Software Developer</sub>
 </td>
 <td align="center">
 <a href="https://github.com/ogzhnaydn38">
@@ -178,7 +176,7 @@ Our world-class engineering team combines decades of experience in enterprise so
 <sub><b>Oğuzhan Aydın</b></sub>
 </a>
 <br />
-<sub>Frontend Development, UX/UI</sub>
+<sub>Software Developer</sub>
 </td>
 </tr>
 <tr>
@@ -189,7 +187,7 @@ Our world-class engineering team combines decades of experience in enterprise so
 <sub><b>Ömer Yeşilkaya</b></sub>
 </a>
 <br />
-<sub>Cloud Infrastructure, Security</sub>
+<sub>Software Developer</sub>
 </td>
 <td align="center">
 <a href="https://github.com/Ray997">
@@ -198,7 +196,7 @@ Our world-class engineering team combines decades of experience in enterprise so
 <sub><b>Ray</b></sub>
 </a>
 <br />
-<sub>Message Queues, Real-time Systems</sub>
+<sub>Software Developer</sub>
 </td>
 <td align="center">
 <!-- Placeholder for future team member -->
@@ -222,8 +220,6 @@ Our team brings together diverse expertise across:
 - **Open Source**: Active contributors to major open source projects
 
 ## 🗺️ Product Roadmap
-
-****
 
 ### **Q1 2026 - Foundation & Core Features**
 - ✅ **v1.0.0** - Initial release with comprehensive technology support
